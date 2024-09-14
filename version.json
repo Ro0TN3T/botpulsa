@@ -1,1 +1,6 @@
-{"result":true,"data":[1.6.0],"message":"1.6.0"}
+{
+    "status": true,
+    "data": {
+        "message": "1.6.0"
+    }
+}
